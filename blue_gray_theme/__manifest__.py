@@ -1,6 +1,6 @@
 {
     'name': 'Blue & Gray Theme',
-    'version': '14.0.1.0.1',
+    'version': '12.0',
     'summary': 'Blue & Gray Theme',
     'author': 'Mahmoud Nayel',
     'license': 'AGPL-3',
